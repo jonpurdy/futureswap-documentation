@@ -1,9 +1,16 @@
+---
+name: deployment
+route: /deployment
+---
+
 # Deploying the contracts
 
 Deploying our whole suite of contracts can get a confusing as they all rely on each other and thus have to be deployed in certain order and after certain calls
 
 
 # Partial Deploy
+
+
 
 Partial deploying is the current setup of our repo. It requires a .env file. 
 
@@ -30,6 +37,11 @@ const rinkeby = {
 The addresses relate to already deployed contracts and should be updated here if you update the contracts and want them to be connected. 
 
 How to deploy 
+
+## Voting
+
+* coming soon
+
 
 ## FSToken
 
@@ -74,6 +86,7 @@ Next we have to deploy the incentive contract
 * From the account you deployed the FSToken with call addMinter(FStokenAddress) and then renounce your mintership with renounceMinter()
 * TODO: JA ONLY OWNER --> needs to be set to only voter
 Only Factory will still need to be set, that will be done after the factory deployment
+
 
 ## Factory 
 
