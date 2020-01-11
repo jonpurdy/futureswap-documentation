@@ -1,5 +1,5 @@
 ---
-name: tradeManagment
+name: Trade Managment
 route: /tradeManagment
 ---
 

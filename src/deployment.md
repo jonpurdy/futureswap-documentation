@@ -1,5 +1,5 @@
 ---
-name: deployment
+name: Deployment
 route: /deployment
 ---
 
