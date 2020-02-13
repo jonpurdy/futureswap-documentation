@@ -4,7 +4,7 @@ export default {
     "Deployment",
     "Factory",
     'FS Token',
-    'Liquidity Token',
+    'Liqudity Token',
     "Dynamic Funding Rate",
     "Liquidation",
     "Providing Liquidity",

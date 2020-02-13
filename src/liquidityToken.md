@@ -1,3 +1,7 @@
+---
+name: Liqudity Token
+route: /liquidityToken
+---
 # Liquidity Token
 * The liquidity token gets created by the factory and deployed by the liquidity token factory (see factory.md) 
 * It is essentially an open zeppelin snapshot token with minting and burning.

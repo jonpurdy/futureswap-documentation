@@ -1,3 +1,7 @@
+---
+name: Factory
+route: /factory
+---
 # Factory
 Our contract has two factories. One to deploy an exchange that calls the other to create a snapshot liquidity token for that exchange
 
