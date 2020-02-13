@@ -2,8 +2,8 @@ export default {
     menu: [
         'Getting Started',
         'Deployment',
-        'FS Token',
         'Factory',
+        'FS Token',
         'Dynamic Funding Rate',
         'Liquidation',
         'Providing Liquidity',
