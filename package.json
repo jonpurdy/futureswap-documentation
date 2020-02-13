@@ -5,7 +5,8 @@
   "scripts": {
     "dev": "docz dev",
     "build": "docz build",
-    "serve": "docz serve"
+    "serve": "docz serve",
+    "start": "docz dev"
   },
   "dependencies": {
     "docz": "^2.2.0",
