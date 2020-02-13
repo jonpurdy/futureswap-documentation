@@ -3,6 +3,7 @@ export default {
     "Futureswap Docs",
     "Deployment",
     "Factory",
+    'FS Token',
     "Dynamic Funding Rate",
     "Liquidation",
     "Providing Liquidity",
