@@ -6,6 +6,7 @@ export default {
     'FS Token',
     'Liqudity Token',
     'Incentives',
+    "Voting",
     "Dynamic Funding Rate",
     "Liquidation",
     "Providing Liquidity",
