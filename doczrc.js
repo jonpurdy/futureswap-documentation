@@ -5,6 +5,7 @@ export default {
     "Factory",
     'FS Token',
     'Liqudity Token',
+    'Incentives',
     "Dynamic Funding Rate",
     "Liquidation",
     "Providing Liquidity",
