@@ -10,6 +10,7 @@ export default {
     "Dynamic Funding Rate",
     "Liquidation",
     "Providing Liquidity",
+    "Oracle",
     "Trade Managment"
   ]
 };
