@@ -113,6 +113,7 @@ onlyVoter
     * mints you FST
 
     ## upgradeIncentives()
+    * This handles upgrading going forward and making the current contract obsolete. Exchanges will still work but will not get rewarded.
 
     ### parameters
     * address _newIncentives ->  new incentives contract
