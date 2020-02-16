@@ -33,6 +33,8 @@ This requires the amount is not being currently utalized. It gets the balance of
 
 If the DAI is in the DSR it removes it, if the token is Weth it unwraps it.
 
+As well add any funds to DSR will get called if funds are not in the DSR and the caller will be rewarded
+
 ## Liquidity Example
 
 Example:
