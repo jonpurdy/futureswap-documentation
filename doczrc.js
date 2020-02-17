@@ -1,6 +1,7 @@
 export default {
   menu: [
     "Futureswap Docs",
+    "Futureswap Main",
     "Deployment",
     "Factory",
     'FS Token',
