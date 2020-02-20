@@ -3,9 +3,10 @@ export default {
     "Futureswap Docs",
     "Deployment",
     "Factory",
-    'FS Token',
-    'Liqudity Token',
-    'Incentives',
+    "FS Token",
+    "Liqudity Token",
+    "Incentives",
+    "Events",
     "Voting",
     "Dynamic Funding Rate",
     "Liquidation",
@@ -13,5 +14,8 @@ export default {
     "Oracle",
     "Trade Managment",
     "DAI Savings Rate"
-  ]
-};
+  ],
+  themeConfig: {
+    initialColorMode: "dark"
+  }
+}
