@@ -1,11 +1,13 @@
 export default {
   menu: [
     "Futureswap Docs",
+    "Futureswap Main",
     "Deployment",
     "Factory",
-    'FS Token',
-    'Liqudity Token',
-    'Incentives',
+    "FS Token",
+    "Liqudity Token",
+    "Incentives",
+    "Events",
     "Voting",
     "Dynamic Funding Rate",
     "Liquidation",
@@ -14,5 +16,8 @@ export default {
     "Trade Managment",
     "DAI Savings Rate",
     "Exchange"
-  ]
+  ],
+  themeConfig: {
+    initialColorMode: "dark"
+  }
 };
