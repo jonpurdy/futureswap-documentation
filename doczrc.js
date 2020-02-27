@@ -12,6 +12,7 @@ export default {
     "Providing Liquidity",
     "Oracle",
     "Trade Managment",
-    "DAI Savings Rate"
+    "DAI Savings Rate",
+    "Exchange"
   ]
 };

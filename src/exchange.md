@@ -34,3 +34,15 @@ route: /exchange
 
 #### actions
 * returns a uint256 which represents the amount you received for the trade
+
+
+#### tip
+* Formula to calculate the amount to send the max amount (stable or asset) to the exchange to fix the balance.
+* Get the imbalance amount from the contract
+* let imbalance = await fs.calculateImbalance()
+
+* let x = (imbalance * 0.99) / 2;
+* let y = imbalance - x * 2;
+* let difference = x + y;
+* let totalToSend = imbalance - difference;
+* now use fs.getImbalance(true||false, totalToSend) to send the exact amount to fixed the imbalance
